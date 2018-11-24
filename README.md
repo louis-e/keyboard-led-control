@@ -1,6 +1,5 @@
 # Keyboard Led Control
-<br /><br />
---------------German/Deutsch--------------<br />
+--------------German/Deutsch--------------<br /><br /><br />
 Ein in Visual Basic .Net geschriebenes Programm zur Steuerung der LED's der Tastatur.<br />
 Dabei kann der Nutzer die LED's einzeln ansteuern oder verschiedene Effekte wählen.<br /><br />
 [In diesem Video ist der Wellen Effekt zu sehen](https://www.youtube.com/watch?v=X0XtR4wrbEg)<br />
