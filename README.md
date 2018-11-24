@@ -11,7 +11,9 @@ VB .Net/.Net Framework: 4.6.1
 <br />
 <br />
 <br />
---------------English/Englisch--------------<br /><br /><br />
+<br />
+<br />
+--------------English/Englisch--------------<br /><br />
 A program written in Visual Basic .Net to control the led's of the keyboard.<br />
 The user can individually control the LEDs or select different effects.<br /><br />
 [This video shows the wave effect](https://www.youtube.com/watch?v=X0XtR4wrbEg)<br />
