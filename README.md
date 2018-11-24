@@ -1,7 +1,7 @@
 # Keyboard Led Control
 --------------German/Deutsch--------------
 Ein in Visual Basic .Net geschriebenes Programm zur Steuerung der LEDs der Tastatur.
-
+![Alt text](https://github.com/louis-e/keyboard-led-control/blob/master/img1.PNG "GUI")
 
 
 
