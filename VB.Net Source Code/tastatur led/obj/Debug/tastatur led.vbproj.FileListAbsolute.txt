@@ -1,0 +1,47 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\bin\Debug\tastatur led.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\bin\Debug\tastatur led.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\bin\Debug\tastatur led.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\bin\Debug\tastatur led.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur led.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur_led.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur_led.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur led.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur led.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur led.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur led.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur led.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur_led.Quiz.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\tastatur led\tastatur led\obj\Debug\tastatur_led.reihenfolge.resources
+C:\Users\User\Desktop\source code\tastatur led\bin\Debug\tastatur led.exe.config
+C:\Users\User\Desktop\source code\tastatur led\bin\Debug\tastatur led.exe
+C:\Users\User\Desktop\source code\tastatur led\bin\Debug\tastatur led.pdb
+C:\Users\User\Desktop\source code\tastatur led\bin\Debug\tastatur led.xml
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur_led.Form1.resources
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur_led.Resources.resources
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur_led.Quiz.resources
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur_led.reihenfolge.resources
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur led.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur led.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur led.exe
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur led.xml
+C:\Users\User\Desktop\source code\tastatur led\obj\Debug\tastatur led.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\bin\Debug\tastatur led.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\bin\Debug\tastatur led.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\bin\Debug\tastatur led.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\bin\Debug\tastatur led.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur led.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur led.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur_led.bassdllform.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur_led.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur_led.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur_led.Quiz.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur_led.reihenfolge.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur led.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur led.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur led.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur led.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\source code\tastatur led\obj\Debug\tastatur led.pdb
